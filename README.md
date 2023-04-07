@@ -11,7 +11,7 @@ The following models are included in this repository:
 3. **BD-GRU**: Bidirectional Gated Recurrent Unit
 4. **BD-LSTM**: Bidirectional Long Short-Term Memory
 5. **RB-RF**: Recomposed Bytes with Random Forest (control model from the original work of D. Shamsimukhametov et al., 2022)
-6. **Ensemble Models**: Combination of selected models for improved performance
+6. **Ensemble Model**: Combination of selected models for improved performance
 
 Each model has its own Python file, which includes the implementation, training, and evaluation of the respective model.
 
