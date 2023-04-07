@@ -18,14 +18,14 @@ Each model has its own Python file, which includes the implementation, training,
 ## Repository Structure
 
 .
-├── 1D-CNN.py
-├── ADT.py
-├── BD-GRU.py
-├── BD-LSTM.py
-├── RB-RF.py
-├── ensemble.py
-├── Kieran Brooks CS435 Final Report.pdf
-└── README.md
+├── 1D-CNN.py<br>
+├── ADT.py<br>
+├── BD-GRU.py<br>
+├── BD-LSTM.py<br>
+├── RB-RF.py<br>
+├── ensemble.pyMbr>
+├── Kieran Brooks CS435 Final Report.pdf<br>
+└── README.md<br>
 
 ## Usage
 
