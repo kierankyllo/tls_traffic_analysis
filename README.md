@@ -1,4 +1,4 @@
-# Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis of Deep Learning Models for Classifying Application Traffic in Encrypted Network Environments.
+# Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis.
 
 This repository contains the code for the a research project investigating the performance of various machine learning and deep learning models for encrypted traffic classification based on TLS handshake exchange. The primary goal is to determine the effectiveness of these models in classifying application traffic operating over encrypted channels.
 
