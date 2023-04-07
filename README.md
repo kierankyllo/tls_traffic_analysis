@@ -1,4 +1,4 @@
-# Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis.
+# Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis
 
 This repository contains the code for the a research project investigating the performance of various machine learning and deep learning models for encrypted traffic classification based on TLS handshake exchange. The primary goal is to determine the effectiveness of these models in classifying application traffic operating over encrypted channels.
 
@@ -17,7 +17,7 @@ Each model has its own Python file, which includes the implementation, training,
 
 ## Repository Structure
 
-.
+.<br>
 ├── 1D-CNN.py<br>
 ├── ADT.py<br>
 ├── BD-GRU.py<br>
@@ -56,7 +56,7 @@ pip install numpy pandas scikit-learn tensorflow keras
 
 If you find this repository useful, please cite the following paper:
 
-- (Brooks, K. (2023). Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis of Deep Learning Models for Classifying Application Traffic in Encrypted Network Environments. CS 435 - Dr. Qian Yu. [GitHub Repository]. Retrieved from https://github.com/kierankyllo/tls_traffic_analysis)
+- (Brooks, K. (2023). Deep Learning for Encrypted Network Traffic Classification: Exploring New Techniques for Efficient Traffic Management - A Comparative Analysis. CS 435 - Dr. Qian Yu. [GitHub Repository]. Retrieved from https://github.com/kierankyllo/tls_traffic_analysis)
 
 ## License
 
